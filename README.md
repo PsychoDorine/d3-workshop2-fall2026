@@ -69,6 +69,7 @@ git push
 ## Your answers
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
+> In the Japanese Grand Prix 2025, Lewis Hamilton (HAM) deviated most from the winner, Max Verstappen. Verstappen started on mediums and switched to hards around lap 21, while Hamilton did the opposite: a long grey "H" bar first, then a yellow "M" bar from around lap 30 to the end. Almost every other row goes yellow then grey, so his grey-then-yellow row stands out right away.
 
 >
 
