@@ -174,3 +174,7 @@ onRaceChange(race => {
 
 // TODO 12 (assignment): chart 3 announces the driver under the mouse.
 // Listen to it and fade the other drivers' bars
+listen('hoverDriver', driverNumber => {
+    barsGroup.selectAll('g.stint')
+        .attr('opacity', d => (driverNumber === null || d.driver_number === driverNumber ? 1 : 0.2));
+});
