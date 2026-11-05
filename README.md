@@ -75,6 +75,8 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
+> In the Dutch Grand Prix 2025, with Piastri as the reference, every safety car shows up as the whole field suddenly collapsing toward the zero line: Verstappen was about 16 s behind around lap 20 but only about 4 s behind by lap 30. A lap-time chart would just show a handful of slow laps there, and you couldn't tell that those few laps wiped out almost all the gap Piastri had built. The trace also turns each pit stop into a visible ~20 s jump, so you can see how long it took a driver to win that time back.
+
 >
 
 **Bonus** (optional): which race did you add, and why?
